@@ -1,5 +1,12 @@
 # code-snippet-miner
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/code-snippet-miner/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/code-snippet-miner/actions)
+![License](https://img.shields.io/github/license/yksanjo/code-snippet-miner)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/code-snippet-miner)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/code-snippet-miner)
+
 ## Detailed Description
 
 code-snippet-miner is maintained as an industry-grade software project with production-ready engineering practices.  
